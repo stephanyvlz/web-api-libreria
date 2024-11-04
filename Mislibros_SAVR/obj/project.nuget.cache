@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/AnnGXsBcg=",
+  "dgSpecHash": "+9QsMNXFeHY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
+  "projectFilePath": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stephany Vlz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Stephany Vlz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

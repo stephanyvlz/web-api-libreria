@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj": {}
+    "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj": {
+    "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
+        "projectUniqueName": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
         "projectName": "Mislibros_SAVR",
-        "projectPath": "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
+        "projectPath": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Mislibros_SAVR.csproj",
         "packagesPath": "C:\\Users\\Stephany Vlz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stephany Vlz\\source\\repos\\Mislibros_SAVR\\Mislibros_SAVR\\obj\\",
+        "outputPath": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
