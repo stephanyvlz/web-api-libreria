@@ -1,0 +1,8 @@
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.csproj.AssemblyReference.cache
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.AssemblyInfoInputs.cache
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.AssemblyInfo.cs
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.csproj.CoreCompileInputs.cache
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.MvcApplicationPartsAssemblyInfo.cs
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.MvcApplicationPartsAssemblyInfo.cache
+E:\Archivos Phany\4toCuatrimestre\AWOS\Mislibros_SAVR\Mislibros_SAVR\obj\Debug\net5.0\Mislibros_SAVR.sourcelink.json
