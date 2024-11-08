@@ -9,6 +9,6 @@ namespace Mislibros_SAVR.Data
                 
         }
 
-        public DbSet<Book> Books { get; set; }
+        public DbSet<Books> Books { get; set; }
     }
 }

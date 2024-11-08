@@ -13,6 +13,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Mislibros_SAVR.Data.Models;
+using Mislibros_SAVR.Data.Services;
 
 namespace Mislibros_SAVR
 {
@@ -32,7 +34,11 @@ namespace Mislibros_SAVR
         {
 
             services.AddControllers();
+            //Configuracion DBContext con SQL
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
+            //Configuracion del servicio paara poder usarlo
+            services.AddTransient<BooksService>();
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Mislibros_SAVR", Version = "v1" });

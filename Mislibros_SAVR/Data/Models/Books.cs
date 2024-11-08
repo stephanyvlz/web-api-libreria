@@ -2,7 +2,7 @@
 
 namespace Mislibros_SAVR.Data.Models
 {
-    public class Book
+    public class Books
     {
         public int id { get; set; }
         public string Titulo { get; set; }

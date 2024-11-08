@@ -19,7 +19,7 @@ namespace Mislibros_SAVR
 
                 if(!context.Books.Any())
                 {
-                    context.Books.AddRange(new Book()
+                    context.Books.AddRange(new Books()
                     {
                         Titulo = "1st Book Title",
                         Descripcion = "1st Book Description",
@@ -31,7 +31,7 @@ namespace Mislibros_SAVR
                         CoverUrl = "https...",
                         DateAdded = DateTime.Now,   
                     },
-                    new Book()
+                    new Books()
                     {
                         Titulo = "2nd Book Title",
                         Descripcion = "2nd Book Description",
