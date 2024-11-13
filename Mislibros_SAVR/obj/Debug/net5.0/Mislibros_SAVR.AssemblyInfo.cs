@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mislibros_SAVR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4afc2e14fc446050b13b506589337d902fb236e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fe2a042ff40fbf4e77401927d3f102832b88803")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mislibros_SAVR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mislibros_SAVR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

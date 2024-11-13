@@ -3,47 +3,47 @@
   "WorkspaceRootPath": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_30951RE/my_books_db/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\migrations\\20241113145558_manytomanyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\migrations\\20241113145558_manytomanyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\migrations\\20241106152641_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\migrations\\20241106152641_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mislibros_SAVR\\Data\\Models\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Book_Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mislibros_SAVR\\Data\\Models\\Book_Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_30951RE/my_books_db/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|e:\\archivos phany\\4tocuatrimestre\\awos\\mislibros_savr\\mislibros_savr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B07155-40B1-4AB8-B31B-95093CB0D4C0}|Mislibros_SAVR\\Mislibros_SAVR.csproj|solutionrelative:mislibros_savr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mislibros_SAVR\\Data\\Models\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,133 +66,128 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.Books [Datos]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_30951RE/my_books_db/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Datos]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-08T11:21:03.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BooksService.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Services\\BooksService.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Services\\BooksService.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Services\\BooksService.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Data\\Services\\BooksService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAjAAAAAAAAAA==",
+              "Title": "20241113145558_ManyToManyAdded.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241113145558_ManyToManyAdded.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Migrations\\20241113145558_ManyToManyAdded.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241113145558_ManyToManyAdded.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Migrations\\20241113145558_ManyToManyAdded.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwC0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:44:55.281Z",
+              "WhenOpened": "2024-11-13T14:55:59.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Controllers\\BooksController.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:41:18.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Startup.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Startup.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Startup.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Startup.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAIAzwCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:27:41.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbInitializer.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\AppDbInitializer.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\AppDbInitializer.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\AppDbInitializer.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Data\\AppDbInitializer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:42:17.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\appsettings.json",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\appsettings.json",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\appsettings.json",
-              "RelativeToolTip": "Mislibros_SAVR\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T16:24:18.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\AppDbContext.cs",
               "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Mislibros_SAVR\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAFBxwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:46:25.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241106152641_InitialDataBaseMigration.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241106152641_InitialDataBaseMigration.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Migrations\\20241106152641_InitialDataBaseMigration.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241106152641_InitialDataBaseMigration.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Migrations\\20241106152641_InitialDataBaseMigration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:26:43.458Z",
+              "WhenOpened": "2024-11-11T17:24:32.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Book_Author.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Models\\Book_Author.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Book_Author.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Data\\Models\\Book_Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:16:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Models\\Author.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Author.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Data\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:12:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Books.cs",
               "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Books.cs",
               "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Models\\Books.cs",
               "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Books.cs",
               "RelativeToolTip": "Mislibros_SAVR\\Data\\Models\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:55:16.463Z",
+              "WhenOpened": "2024-11-11T16:27:50.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookVM.cs",
-              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\viewModels\\BookVM.cs",
-              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\viewModels\\BookVM.cs",
-              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\viewModels\\BookVM.cs",
-              "RelativeToolTip": "Mislibros_SAVR\\Data\\viewModels\\BookVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_30951RE/my_books_db/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_30951RE/my_books_db/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-11T17:09:30.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241111165525_PublisherAdded.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Migrations\\20241111165525_PublisherAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:54:32.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T16:55:26.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Models\\Publisher.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Models\\Publisher.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Data\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:13.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:58:46.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Mislibros_SAVR\\Data\\Services\\BooksService.cs",
+              "ToolTip": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Data\\Services\\BooksService.cs",
+              "RelativeToolTip": "Mislibros_SAVR\\Data\\Services\\BooksService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:50:15.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Archivos Phany\\4toCuatrimestre\\AWOS\\Mislibros_SAVR\\Mislibros_SAVR\\Program.cs",
               "RelativeDocumentMoniker": "Mislibros_SAVR\\Program.cs",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "Mislibros_SAVR\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:22:06.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T16:22:06.281Z"
             }
           ]
         }

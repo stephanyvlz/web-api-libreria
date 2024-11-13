@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Mislibros_SAVR.Data.Models
 {
@@ -14,5 +15,11 @@ namespace Mislibros_SAVR.Data.Models
         public string Autor { get; set; }
         public string CoverUrl { get; set; }
         public DateTime DateAdded { get; set; }
+
+        //Propiedades de navegación (Especificacion de relaciones )
+        public int PublisherId {  get; set; }
+        public Publisher Publisher { get; set; }
+        public List<Book_Author> Books_Authors { get; set; }
+
     }
 }
