@@ -20,9 +20,9 @@ namespace Mislibros_SAVR.Data
             .HasForeignKey(bi => bi.AuthorId);
         }
         public DbSet<Books> Books { get; set; }
-        protected DbSet<Author> Authors { get; set; }
+        public DbSet<Author> Authors { get; set; }
         protected DbSet<Book_Author> Book_Authors { get; set; }
-        protected DbSet<Publisher> Publishers { get; set; }
+        public DbSet<Publisher> Publishers { get; set; }
 
     }
 }

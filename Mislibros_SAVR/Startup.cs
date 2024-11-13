@@ -38,7 +38,9 @@ namespace Mislibros_SAVR
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
             //Configuracion del servicio paara poder usarlo
             services.AddTransient<BooksService>();
-            
+            services.AddTransient<AuthorsService>();
+            services.AddTransient<PublishersService>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Mislibros_SAVR", Version = "v1" });
@@ -65,7 +67,7 @@ namespace Mislibros_SAVR
             {
                 endpoints.MapControllers();
             });
-            AppDbInitializer.Seed(app);
+            //AppDbInitializer.Seed(app);
         }
     }
 }
