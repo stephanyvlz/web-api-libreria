@@ -21,7 +21,7 @@ namespace Mislibros_SAVR.Data
         }
         public DbSet<Books> Books { get; set; }
         public DbSet<Author> Authors { get; set; }
-        protected DbSet<Book_Author> Book_Authors { get; set; }
+        public DbSet<Book_Author> Book_Authors { get; set; }
         public DbSet<Publisher> Publishers { get; set; }
 
     }

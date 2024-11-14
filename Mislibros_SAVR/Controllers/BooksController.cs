@@ -30,10 +30,10 @@ namespace Mislibros_SAVR.Controllers
         }
 
 
-        [HttpPost("add-book")]
+        [HttpPost("add-book-with-authors")]
         public IActionResult AddBook([FromBody]BookVM book)
         {
-            _booksService.AddBook(book);
+            _booksService.AddBookWhitAuthors(book);
             return Ok();
         }
 

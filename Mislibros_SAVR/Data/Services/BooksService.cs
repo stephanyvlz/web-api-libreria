@@ -16,7 +16,7 @@ namespace Mislibros_SAVR.Data.Services
         }
 
         //Metodo que permite agregar un nuevo libro en la BD
-        public void AddBook(BookVM book)
+        /*public void AddBook(BookVM book)
         {
             var _book = new Books()
             {
@@ -32,6 +32,35 @@ namespace Mislibros_SAVR.Data.Services
             };
             _context.Books.Add(_book);
             _context.SaveChanges();
+        }*/
+        public void AddBookWhitAuthors(BookVM book)
+        {
+            var _book = new Books()
+            {
+                Titulo = book.Titulo,
+                Descripcion = book.Descripcion,
+                IsRead = book.IsRead,
+                DateRead = book.DateRead,
+                Rate = book.Rate,
+                Genero = book.Genero,
+                CoverUrl = book.CoverUrl,
+                DateAdded = DateTime.Now,
+                PublisherId = book.PublisherId
+
+            };
+            _context.Books.Add(_book);
+            _context.SaveChanges();
+
+            foreach(var id in book.AutorIDs)
+            {
+                var _book_author = new Book_Author()
+                {
+                    BookId = _book.id,
+                    AuthorId  = id 
+                };
+                _context.Book_Authors.Add(_book_author);
+                _context.SaveChanges(); 
+            }
         }
         //Metodo que permite obtener una lista de todos los libro en la BD
         public List<Books> GetAllBks() => _context.Books.ToList();
@@ -48,7 +77,7 @@ namespace Mislibros_SAVR.Data.Services
                 _book.IsRead = book.IsRead;
                 _book.DateRead = book.DateRead;
                 _book.Rate = book.Rate;
-                _book.Genero = book.Autor;
+                _book.Genero = book.Genero;
                 _book.CoverUrl = book.CoverUrl;
                 _context.SaveChanges();
             }

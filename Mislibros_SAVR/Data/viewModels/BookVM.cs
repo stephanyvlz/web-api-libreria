@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Mislibros_SAVR.Data.viewModels
 {
@@ -12,5 +13,7 @@ namespace Mislibros_SAVR.Data.viewModels
         public string Genero { get; set; }
         public string Autor { get; set; }
         public string CoverUrl { get; set; }
+        public int PublisherId { get; set; }
+        public List<int> AutorIDs { get; set; }
     }
 }
